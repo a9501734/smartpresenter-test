@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #README
 
 # SmartPresenter Test Automation Project
@@ -35,3 +36,7 @@ Author
 
 Tim Chen
 a950173434@gmail.com
+=======
+# smartpresenter-test
+Basic API Tests, TCP Tests, Log Tests
+>>>>>>> 03cf34ce4b29e425eea5876f1866ae2d6fbaab18
